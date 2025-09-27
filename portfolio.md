@@ -89,7 +89,7 @@ The UI architecture and design ethos were inspired by modern cyberpunk terminal 
 
 > 💡 *Deploy this to GitHub Pages, Netlify, or Vercel for a production-ready experience.*
 
-**Live Demo:** 
+**Live Demo:** https://swaranthib112004.github.io/
 
 ---
 
